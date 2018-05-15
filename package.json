@@ -1,0 +1,28 @@
+{
+  "name": "luiri-node-app",
+  "version": "1.0.0",
+  "description": "node bot",
+  "main": "luiri.js",
+  "scripts": {
+    "test": "luiri help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suarezluis/luiri-node-app.git"
+  },
+  "author": "Luis Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suarezluis/luiri-node-app/issues"
+  },
+  "homepage": "https://github.com/suarezluis/luiri-node-app#readme",
+  "dependencies": {
+    "colors": "^1.2.5",
+    "dotenv": "^5.0.1",
+    "node-mp3-player": "^1.0.3",
+    "node-spotify-api": "^1.0.7",
+    "play-sound": "^1.1.2",
+    "request": "^2.85.0",
+    "twitter": "^1.7.1"
+  }
+}
